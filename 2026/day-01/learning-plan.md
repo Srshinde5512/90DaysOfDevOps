@@ -6,14 +6,14 @@
 
 ## Skills i want to learn in devops journey
 - Operating System
-- Scripting
+- shell Scripting
 - Version Control
 - Docker
 - CI/CD
-- Cloud Service Providers
+- Cloud Service Providers (*AWS, azure)
 - Kubernetes
 - Monitoring
-- Infrastructure as Code
+- Infrastructure as Code terraform, ansible
 - Resume and LinkedIn
 - DevOps Course
 - Linux
@@ -22,7 +22,7 @@
 - Projects
 - ArgoCD
 - Networking
-- Agentic AI
+- Agentic AI 
 
 
 ## Why I Am Learning DevOps & Cloud
