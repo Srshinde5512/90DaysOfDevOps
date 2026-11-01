@@ -55,3 +55,6 @@ Every running application is a process with a unique **PID** (Process ID).
    Stream live application/service logs directly from the systemd journal.
 5. `kill -15 <PID>` *(or `kill -9 <PID>`)*  
    Send `SIGTERM` (clean, graceful shutdown) or fallback to `SIGKILL` (immediate kernel termination).
+
+
+#day 2 task done 
